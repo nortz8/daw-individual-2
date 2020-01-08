@@ -34,7 +34,7 @@ Final_Data.to_csv('./data/Final_Data.csv',index=False)
 
 # Create dataframes saved as csv for all stations for plotting
 dfs = Final_Data
-for n in range(1,13):
+for n in range(1,14):
     df1 = dfs[dfs['station']==n]
     df1.to_csv('./data/Station_'+str(n)+'.csv')
 
