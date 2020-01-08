@@ -11,5 +11,5 @@
 
 <br>
 
-#### A deployed application is also available in the link below until January 12, 2020:  
+#### A deployed application is also available in the link below until January 31, 2020:  
 #### http://individual2-dev.ap-northeast-1.elasticbeanstalk.com/
