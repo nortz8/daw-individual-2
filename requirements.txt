@@ -1,3 +1,4 @@
+python==3.6.8
 dash==1.4.1
 pandas==0.25.3
 scikit-learn==0.21.3
