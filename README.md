@@ -11,7 +11,7 @@ The Gradient Boosted Model with learning rate of 0.2 and max depth of 20 produce
 `python application.py`  
 
 
-#### Open this link in your browser: http://127.0.0.1:8082/
+#### Then open this link in your browser: http://127.0.0.1:8082/
 
 <br>
 
